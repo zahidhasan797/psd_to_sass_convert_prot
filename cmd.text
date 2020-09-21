@@ -1,0 +1,20 @@
+
+gem install sass
+
+
+
+C:\Users\Jahid>e:
+
+E:\> 
+
+E:\shikbea_shobai>cd PSD to bootstrap project
+
+E:\shikbea_shobai\PSD to bootstrap project>cd portfolio-shikbeashobai
+
+E:\shikbea_shobai\PSD to bootstrap project\portfolio-shikbeashobai> sass --watch sass/style.scss:css/style.css
+
+
+
+
+</###################################/>
+E:\shikbea_shobai\PSD to bootstrap project\portfolio-shikbeashobai> sass --watch sass/style.scss:css/style.css
